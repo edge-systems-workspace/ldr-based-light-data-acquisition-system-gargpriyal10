@@ -2,8 +2,8 @@
 /**
  * @file main.ino
  * @brief Embedded Light Intensity Monitoring using LDR
- * @author YOUR_NAME
- * @date YYYY-MM-DD
+ * @author PRIYAL GARG
+ * @date 2025-02-19
  *
  * @details
  * Reads analog brightness data from LDR sensor
