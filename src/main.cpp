@@ -10,11 +10,8 @@
  * and displays structured output via Serial Monitor.
  */
 
- // TODO 1:
- // Define LDR analog pin (Use A0)
 
- // TODO 2:
- // Create variable to store sensor reading
+#define ldrPin A0
 
 void setup() {
 
